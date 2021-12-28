@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="120.48.9.90">
+    <serverData>
+      <paths name="120.48.9.90">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/Downloads/apache-tomcat-8.5.72/webapps" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
